@@ -3,6 +3,8 @@
 ## Overview
 This project focuses on building a deep learning model to classify various eye diseases from retinal images. Using state-of-the-art architectures like EfficientNetB3 and InceptionResNetV2, the model achieves high accuracy and robustness for clinical applicability. The system assists in early detection and diagnosis, which is crucial for effective treatment and patient care.
 
+Dataset Used - https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+
 ## Features
 - Multi-class classification of eye diseases based on retinal imagery.
 - Uses transfer learning with EfficientNetB3 and InceptionResNetV2 architectures.
