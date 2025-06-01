@@ -36,4 +36,5 @@ Dataset Used - https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-clas
 - Deploy model as a web app for real-time diagnosis.
 
 
+![image](https://github.com/user-attachments/assets/34edfbfb-c14c-47e7-b374-93bd068637bb)
 
