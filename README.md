@@ -20,9 +20,6 @@ Dataset Used - https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-clas
 - NumPy, Pandas
 - Matplotlib, Seaborn (for visualization)
 
-## Dataset
-The dataset consists of labeled retinal images sourced from publicly available medical imaging datasets. (Include link or mention dataset if applicable)
-
 ## Installation
 1. Clone the repository:
    git clone https://github.com/yourusername/eye-disease-classification.git
