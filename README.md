@@ -22,7 +22,7 @@ Dataset Used - https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-clas
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/eye-disease-classification.git
+   git clone https://github.com/amisha1106/eye-disease-classification.git
 
 ## Usage
 - Run data preprocessing scripts.
