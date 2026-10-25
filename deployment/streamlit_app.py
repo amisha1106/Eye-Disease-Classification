@@ -112,6 +112,7 @@ if uploaded_file:
                     "requires urgent medical attention."
                 )
 
-    except Exception as e:
-        st.error("An error occurred while processing the image.")
-        st.exception(e)
+    except Exception:
+        st.error(
+            "Unable to process this image. Please try another supported image file."
+        )
