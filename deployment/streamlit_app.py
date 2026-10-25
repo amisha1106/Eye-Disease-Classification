@@ -3,7 +3,9 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 
-MODEL_PATH = "recovered_eye_model.keras"
+from pathlib import Path
+
+MODEL_PATH = Path(__file__).resolve().parent / "recovered_eye_model.keras"
 
 CLASS_LABELS = [
     "Cataract",
@@ -110,7 +112,6 @@ if uploaded_file:
                     "requires urgent medical attention."
                 )
 
-    except Exception:
-        st.error(
-            "Unable to process this image. Please try another supported image file."
-        )
+    except Exception as e:
+        st.error("An error occurred while processing the image.")
+        st.exception(e)
