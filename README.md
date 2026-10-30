@@ -1,7 +1,6 @@
 # Eye Disease Classification Using Deep Learning
 
-##Live Demo
-
+## Live Demo
 Launch Eye Disease Prediction App : https://eye-disease-prediction.streamlit.app/
 
 ## Overview
