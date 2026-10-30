@@ -1,5 +1,9 @@
 # Eye Disease Classification Using Deep Learning
 
+##Live Demo
+
+Launch Eye Disease Prediction App : https://eye-disease-prediction.streamlit.app/
+
 ## Overview
 This project focuses on building a deep learning model to classify various eye diseases from retinal images. Using state-of-the-art architectures like EfficientNetB3 and InceptionResNetV2, the model achieves high accuracy and robustness for clinical applicability. The system assists in early detection and diagnosis, which is crucial for effective treatment and patient care.
 
